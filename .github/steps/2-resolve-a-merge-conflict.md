@@ -10,8 +10,8 @@ _順調なスタートです！次は、マージコンフリクトについて�
 
 少し難しそうに感じるかもしれませんが、ご安心ください。Git はマージに関して賢く機能します！Git に必要なのは、人間が [競合の解決方法](https://docs.github.com/ja/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-using-the-command-line) を決定することだけです。場合によっては、マージコンフリクトを解決する最善の方法は、両方のブランチからコンテンツを追加すること、あるいはどちらのブランチにも存在しないコンテンツを追加することです。そのため、Git では人間がコードを確認し、適切な修正を行う必要があります。
 
-![Merge conflict](https://github.com/kuboctopus/resolve-merge-conflicts/images/)
-![Resolve merge conflict](https://github.com/kuboctopus/resolve-merge-conflicts/images/)
+![Merge conflict](https://github.com/kuboctopus/resolve-merge-conflicts/blob/main/images/merge_conflict.jpg)
+![Resolve merge conflict](https://github.com/kuboctopus/resolve-merge-conflicts/blob/main/images/resolve_merge_conflict.jpg)
 
 ### :keyboard: アクティビティ: マージコンフリクトの解決
 
